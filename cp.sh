@@ -1,25 +1,22 @@
 #!/bin/bash
 
-#!/bin/bash
-# valid=true
+# Copies the command that you have selected [automates ctrl + c]
 xdotool key ctrl+c
-# count=1
+
+# Opens the terminal
 xdotool key ctrl+alt+t
 
-# while [ $valid ]
-# do
+# Delay for 1 second in case terminal takes more time to open just increase the timer to a higher value 
 sleep 1
 
-# echo $count
-#xdotool type Linux is love
-
-# if [ $count -eq 5 ];
-# then
-# break
-# fi
+# Automates the paste function [automates Ctrl + shift + v] 
 xdotool key ctrl+shift+v
+
+#For autofilling of passwords
+#xdotool type <password>
+
+#Presses enter to run the command
 xdotool key Return
-# ((count++))
-# done
+
 
 
