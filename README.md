@@ -1,5 +1,5 @@
 # developers-hate-copy-paste
-Small bash script that automates copy and pasting commands from web to a terminal with just one press of a key
+Small bash script for linux that automates copy and pasting commands from web to a terminal with just one press of a key
 # Steps to setup
 
 ## Install xdotool
