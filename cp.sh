@@ -12,8 +12,8 @@ sleep 1
 # Automates the paste function [automates Ctrl + shift + v] 
 xdotool key ctrl+shift+v
 
-#For autofilling of passwords
-#xdotool type <password>
+#For autofilling of passwords uncomment the below line and add your password
+#xdotool type YOUR_PASSWORD
 
 #Presses enter to run the command
 xdotool key Return
