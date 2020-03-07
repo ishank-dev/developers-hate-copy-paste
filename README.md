@@ -3,7 +3,7 @@ Small bash script that automates copy and pasting commands from web to a termina
 # Steps to setup
 
 ## Install xdotool
-``sudo apt-get update -y``
+``sudo apt-get update -y``<br>
 ``sudo apt-get install -y xdotool``
 
 ## Clone the repository
