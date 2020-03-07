@@ -13,8 +13,8 @@ run ``chmode +x cp.sh``<br>
 
 ## Assign a custom keyboard shortcut to run the script
 [Follow this in case of Ubuntu (Gnome)](https://docs.fedoraproject.org/en-US/quick-docs/proc_setting-key-shortcut/)<br>
+[Follow this in case of Kubuntu (KDE)](https://www.addictivetips.com/ubuntu-linux-tips/customize-keyboard-shortcuts-on-kde-plasma-5/)<br>
 This completes the setup of the script.<br>
-[Follow this in case of Kubuntu (KDE)](https://www.addictivetips.com/ubuntu-linux-tips/customize-keyboard-shortcuts-on-kde-plasma-5/)
 
 
 ## Usage
